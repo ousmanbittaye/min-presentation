@@ -1,0 +1,6 @@
+#Future Me
+hej future me nu har det gått 6 månader av utbildningen jag hoppas det går bra. 
+Nu har du kommit igång med utbildningen och du har lärt dig mycket under dessa månader det har varit tufft i början men nu börjar du få grepp på saker.
+Du förstår mycket bättre på hur man använder Visual studio och hur github fungerar och hur man skapar repo och Committa, pusha, skapa en Pull Request och merge tillbaka till main. 
+Jag vill bara säga till dig att fortsätt att kämpa det kommer bara bli bättre. Du har potentialen att göra fantastiska saker, så tro på dig själv och ge aldrig upp. 
+lycka till med allt du gör!
